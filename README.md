@@ -25,4 +25,4 @@ Feel free to explore my repositories and contact me for collaboration or mentors
 
 📫 How to reach me:
 -LinkedIn Profile   https://www.linkedin.com/in/ludmilla-verbitskaya-2885b5313/
-- Email:ludverb@rambler.ru     gelmut1984@gmail.com
+- Email:ludverb@rambler.ru      gelmut1984@gmail.com

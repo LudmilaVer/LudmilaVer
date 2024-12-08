@@ -14,7 +14,7 @@ I'm currently studying to become a developer and would love to join a team where
 - Grow as a professional by contributing to meaningful applications
 - ### 🛠 Tools and Technologies:
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)   ![React](https://img.shields.io/badge/React-Learning-blue)  ![Node.js](https://img.shields.io/badge/Node.js-Beginner-green)  ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-brightgreen)  ![Docker](https://img.shields.io/badge/Docker-Beginner-lightblue)   ![HTML](https://img.shields.io/badge/HTML-Advanced-orange)  ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)   ![React](https://img.shields.io/badge/React-Learning-blue)  ![Node.js](https://img.shields.io/badge/Node.js-Beginner-green)  ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-brightgreen)  ![Docker](https://img.shields.io/badge/Docker-Beginner-lightblue)   ![HTML](https://img.shields.io/badge/HTML-Advanced-orange)  ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)  ![MySQL](https://img.shields.io/badge/MySQL-Learning-blue)
 
    
 

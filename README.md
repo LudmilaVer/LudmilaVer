@@ -18,7 +18,9 @@ I'm currently studying to become a developer and would love to join a team where
 
    
 
- 
+ ## 🎉 *A little motivation for all developers*  
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 
 
 

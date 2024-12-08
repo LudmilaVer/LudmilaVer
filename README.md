@@ -12,6 +12,8 @@ I'm currently studying to become a developer and would love to join a team where
 - Collaborate with experienced developers and mentors
 - Gain hands-on experience in real-world projects
 - Grow as a professional by contributing to meaningful applications
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+
 
 ### 📌 My Goals:
 - Build innovative and user-friendly applications

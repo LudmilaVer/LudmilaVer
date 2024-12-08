@@ -12,7 +12,15 @@ I'm currently studying to become a developer and would love to join a team where
 - Collaborate with experienced developers and mentors
 - Gain hands-on experience in real-world projects
 - Grow as a professional by contributing to meaningful applications
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+- ### 🛠 Tools and Technologies:
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)   ![React](https://img.shields.io/badge/React-Learning-blue)  ![Node.js](https://img.shields.io/badge/Node.js-Beginner-green)  ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-brightgreen)  ![Docker](https://img.shields.io/badge/Docker-Beginner-lightblue)   ![HTML](https://img.shields.io/badge/HTML-Advanced-orange)  ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+
+   
+
+ 
+
+
 
 
 ### 📌 My Goals:
